@@ -1,14 +1,14 @@
 version: "3"
 services:
-  app:
+  app222:
     restart:  always
     build:  .
 
-    command:  bash -c "python3 manage.py makemigrations && python3 manage.py migrate && gunicorn --timeout=30 --workers=5 --threads=4 --bind :3033 djangoProject2.wsgi:application "
+    command:  bash -c "python3 manage.py makemigrations && python3 manage.py migrate && gunicorn --timeout=30 --workers=5 --threads=4 --bind :3034 djangoProject2.wsgi:application "
 
     volumes:
       - .:/code
 
     ports:
-      - "3033:3033"
+      - "3034:3034"
 
