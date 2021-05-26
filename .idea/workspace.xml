@@ -5,89 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b588966-4fe0-49c5-9b2b-abde88f5f98f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/theme/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/public/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/public/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/public/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/public/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/public/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/public/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/assets/clint-mckoy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/assets/lock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/assets/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/assets/pricing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/assets/register.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/assets/vmd.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/assets/vuetify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/Links.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/MaterialAlert.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/MaterialCard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/MaterialChartCard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/MaterialSnackbar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/MaterialStatsCard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/ViewIntro.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/app/BarItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/app/Btn.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/app/Card.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/components/app/Tabs.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/AppBar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/Drawer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/Footer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/Index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/List.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/ListGroup.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/ListItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/Settings.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/View.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/widgets/Account.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/widgets/AccountSettings.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/widgets/DrawerHeader.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/widgets/DrawerToggle.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/widgets/GoHome.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/widgets/Notifications.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/layouts/default/widgets/Search.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/plugins/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/plugins/chartist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/plugins/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/plugins/vue-meta.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/plugins/vuetify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/plugins/vuex-pathify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/plugins/webfontloader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/store/modules/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/store/modules/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/store/modules/sales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/store/modules/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/styles/overrides.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/styles/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/util/globals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/util/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/util/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/views/Dashboard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/views/Error.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/views/GoogleMaps.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/views/Icons.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/views/Notifications.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/views/RegularTables.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/views/Typography.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/views/UserProfile.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/vue.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/theme/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +60,7 @@
       <workItem from="1620049952443" duration="44000" />
       <workItem from="1620050044416" duration="717000" />
       <workItem from="1620051631627" duration="3904000" />
-      <workItem from="1621955260653" duration="466000" />
+      <workItem from="1621955260653" duration="826000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1620050229875</created>
@@ -186,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620225987666</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加前端">
+      <created>1621955788087</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621955788087</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="添加前端" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加前端" />
   </component>
 </project>
